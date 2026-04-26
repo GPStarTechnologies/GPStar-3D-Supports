@@ -58,7 +58,7 @@ This repository includes third-party designs and derivative works. Each item ret
 ## Top Speaker Bracket Square
 
 * **Based on:** Top Speaker Bracket by BeezleBot
-* **License:** Creative Commons Attribution 4.0 International (CC BY 4.0)
+* **Original License:** Creative Commons Attribution 4.0 International (CC BY 4.0)
 * **Source:** https://www.thingiverse.com/thing:5866066
 * **Modifications:** Modified dimensions, added mounting holes, renamed file
 
@@ -72,12 +72,10 @@ This repository includes third-party designs and derivative works. Each item ret
 
 * **Based on:** Spengler Wand Couplings by thedarkotaku88
 * **Original License:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+* These derivatives are distributed under GPL V3 with written permission from the author.
 * **Status:** Derivative work used with permission from the original author
-* **Source:** https://www.thingiverse.com/thing:5866066
+* **Source:** https://www.thingiverse.com/thing:5167889
 * **Modifications:** Resized, reworked mounting geometry and dimensions
-
-> These files are **not licensed under GPL-3.0**.
-> Redistribution and use must comply with the original CC BY-NC 4.0 license and any additional permissions granted by the author.
 
 **Files:**
 
