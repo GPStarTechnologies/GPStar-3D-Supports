@@ -1,0 +1,26 @@
+Cyclotron:
+12x M3x8mm socket cap screws
+4x M3x12mm socket cap screws
+4x M3 Washers (optional)
+2x M4X16mm button head screws
+2x M4 Nuts
+
+Power Cell:
+4x M3x8mm socket cap screws
+2x M3x12mm socket cap screws
+2x M3 nuts
+2x M4X16mm button head screws
+2x M4 Nuts
+
+Hose Connector:
+2x M4x8mm button head screws
+2x M4 nuts
+
+Speakers:
+8x M4X16mm button head screws
+
+Pack / Audio / Battery (TalentCell 6000) Mount:
+4x M4x10 button head screws
+4x M4 nuts
+6x M3x8 (GPStar Proton Pack)
+2x M2x8 (GPStar Audio)

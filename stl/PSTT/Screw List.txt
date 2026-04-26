@@ -1,0 +1,12 @@
+4x m3x8 -> MG996R
+4x m2x5 -> GPStar PSTT Board
+4x m2x5 -> GPStar Jewels
+4x m2x5 -> Back Cover
+1x m3x10 -> MG996R -> Small Gear + GPStar Horn
+1x m2.5x10 -> Arm Connector (install before Large gear pin for easier install)
+1x m2x4 -> Large gear pin
+2x m2x5 -> Arm Connector Clamp
+6x m2x5 -> Top Cover
+4x m2x5 -> GPStar Battery Box
+4x m3x8 -> GPStar Battery Box
+1x m2.5x10 -> Arm Clamp (for target, remove when transporting).
