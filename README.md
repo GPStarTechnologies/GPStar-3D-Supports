@@ -29,6 +29,8 @@ This repository is licensed under:
 
 **GNU General Public License v3.0 (GPL-3.0)**
 
+You should have received [a copy of the GNU General Public License along with this program](LICENSE). If not, see <https://www.gnu.org/licenses/>.
+
 All GPL-derived components remain under their original licensing terms. See individual files or documentation for specific attribution details.
 
 ---
