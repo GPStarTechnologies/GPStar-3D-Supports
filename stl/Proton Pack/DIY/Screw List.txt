@@ -2,8 +2,8 @@ Cyclotron:
 12x M3x8mm socket cap screws
 4x M3x12mm socket cap screws
 4x M3 Washers (optional)
-2x M4X16mm button head screws
-2x M4 Nuts
+4x M4X16mm button head screws
+4x M4 Nuts
 
 Power Cell:
 4x M3x8mm socket cap screws
