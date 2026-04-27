@@ -18,6 +18,7 @@ Hose Connector:
 
 Speakers:
 8x M4X16mm button head screws
+8x M4 Nuts
 
 Pack / Audio / Battery (TalentCell 6000) Mount:
 4x M4x10 button head screws
